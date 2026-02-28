@@ -4,7 +4,7 @@ using namespace std;
 void f(int n)
 {
     if(n==0) return;
-    cout<<"I love The Recursion\n";
+    cout<<"I love Recursion\n";
     f(n-1);
 }
 
